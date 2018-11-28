@@ -1,0 +1,7 @@
+# Serverless directories
+.serverless
+.idea/*
+### Gradle ###
+.gradle
+/build/
+node_modules
